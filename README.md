@@ -2,6 +2,7 @@
 
 The Paragraph Generator is a simple web application that allows you to generate  paragraph of text. It provides a user-friendly interface where you can specify the number of words you want in your paragraph and generate it with a single click.
 
+#Live Link ---> https://thunderous-kheer-6356f2.netlify.app/
 
 ## Installation
 
